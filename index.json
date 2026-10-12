@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-cron",
+  "versions": [
+    {
+      "commit": "d90b8bd13d5cb836d9a630c7edd28a2fbd10eada",
+      "tag": "",
+      "parsed_at": "2026-10-12T16:44:56.445523+00:00"
+    }
+  ]
+}
