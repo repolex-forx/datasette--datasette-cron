@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-cron/commit/d90b8bd13d5cb836d9a630c7edd28a2fbd10eada",
       "git:hexsha": "d90b8bd13d5cb836d9a630c7edd28a2fbd10eada",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/datasette/datasette-cron/commit/568fa9500e7565cbed4de5c82274ad9bee015c4e",
